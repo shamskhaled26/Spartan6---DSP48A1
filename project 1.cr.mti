@@ -1,0 +1,43 @@
+C:/Users/DELL/Downloads/register.v {1 {vlog -work work -vopt -stats=none C:/Users/DELL/Downloads/register.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module flipflop_mux
+
+Top level modules:
+	flipflop_mux
+
+} {} {}} C:/Users/DELL/Downloads/dsp_modified.v {1 {vlog -work work -vopt -stats=none C:/Users/DELL/Downloads/dsp_modified.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dsp
+
+Top level modules:
+	dsp
+
+} {} {}} {C:/Digital 2025/projects/PROJECT 1 DSP/project_dsp.v} {1 {vlog -work work -vopt -stats=none {C:/Digital 2025/projects/PROJECT 1 DSP/project_dsp.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module project_DSP
+
+Top level modules:
+	project_DSP
+
+} {} {}} {C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux.v} {1 {vlog -work work -vopt -stats=none {C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_to_mux
+
+Top level modules:
+	reg_to_mux
+
+} {} {}} C:/Users/DELL/Downloads/dsp_tb_modified.v {1 {vlog -work work -vopt -stats=none C:/Users/DELL/Downloads/dsp_tb_modified.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dsp_tb
+
+Top level modules:
+	dsp_tb
+
+} {} {}} {C:/Digital 2025/projects/PROJECT 1 DSP/project_DSP_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Digital 2025/projects/PROJECT 1 DSP/project_DSP_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module project_DSP_tb
+
+Top level modules:
+	project_DSP_tb
+
+} {} {}}

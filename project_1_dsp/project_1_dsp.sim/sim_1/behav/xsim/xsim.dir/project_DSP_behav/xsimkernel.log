@@ -1,0 +1,7 @@
+Running: xsim.dir/project_DSP_behav/xsimk.exe -simmode gui -wdb project_DSP_behav.wdb -simrunnum 0 -socket 54401
+Design successfully loaded
+Design Loading Memory Usage: 8724 KB (Peak: 8724 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 9448 KB (Peak: 9448 KB)
+Simulation CPU Usage: 77 ms

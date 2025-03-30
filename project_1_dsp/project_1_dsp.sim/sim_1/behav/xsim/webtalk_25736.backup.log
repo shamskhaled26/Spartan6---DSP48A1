@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Mar  6 17:14:07 2025
+# Process ID: 25736
+# Current directory: C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim/xsim.dir/project_DSP_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Digital -notrace
+couldn't read file "C:/Digital": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Thu Mar  6 17:14:07 2025...

@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../reg_to_mux.v" \
+"../../../../../reg_to_mux1bit.v" \
+"../../../../../reg_to_mux2.v" \
+"../../../../../reg_to_mux_opmode.v" \
+"../../../../../project_dsp.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

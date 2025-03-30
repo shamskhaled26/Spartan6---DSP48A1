@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Mar 10 02:31:24 2025
+# Process ID: 12600
+# Current directory: C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.runs/synth_1
+# Command line: vivado.exe -log project_DSP.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source project_DSP.tcl
+# Log file: C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.runs/synth_1/project_DSP.vds
+# Journal file: C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source project_DSP.tcl -notrace

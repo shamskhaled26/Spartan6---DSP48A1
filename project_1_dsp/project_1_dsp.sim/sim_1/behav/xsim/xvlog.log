@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_to_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_to_mux1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_to_mux2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux_opmode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_to_mux_opmode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Digital 2025/projects/PROJECT 1 DSP/project_dsp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module project_DSP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

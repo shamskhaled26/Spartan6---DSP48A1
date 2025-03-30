@@ -1,0 +1,18 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 70c2c294ab414386bdbb69a41e56f35e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot project_DSP_behav xil_defaultlib.project_DSP xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.reg_to_mux_opmode
+Compiling module xil_defaultlib.reg_to_mux
+Compiling module xil_defaultlib.reg_to_mux(sel_reg=0)
+Compiling module xil_defaultlib.reg_to_mux2
+Compiling module xil_defaultlib.reg_to_mux1bit
+Compiling module xil_defaultlib.project_DSP
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot project_DSP_behav

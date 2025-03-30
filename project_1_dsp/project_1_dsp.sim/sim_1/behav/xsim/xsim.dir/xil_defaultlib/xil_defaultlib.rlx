@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Digital 2025/projects/PROJECT 1 DSP/project_1_dsp/project_1_dsp.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Digital 2025/projects/PROJECT 1 DSP/project_dsp.v,1741274030,verilog,,,,project_DSP,,,,,,,,
+C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux.v,1741268662,verilog,,C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux1bit.v,,reg_to_mux,,,,,,,,
+C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux1bit.v,1741268664,verilog,,C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux2.v,,reg_to_mux1bit,,,,,,,,
+C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux2.v,1741268666,verilog,,C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux_opmode.v,,reg_to_mux2,,,,,,,,
+C:/Digital 2025/projects/PROJECT 1 DSP/reg_to_mux_opmode.v,1741268660,verilog,,C:/Digital 2025/projects/PROJECT 1 DSP/project_dsp.v,,reg_to_mux_opmode,,,,,,,,

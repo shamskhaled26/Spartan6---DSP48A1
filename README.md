@@ -1,14 +1,16 @@
-# Spartan-6 DSP48A1 Examples
+# Spartan-6 DSP48A1
 
-This repository provides example Verilog/SystemVerilog modules and testbenches that demonstrate how to use the **DSP48A1** primitive in Xilinx Spartan-6 FPGAs. The DSP48A1 block is a powerful, flexible, and compact digital signal processing element for high-speed arithmetic operations.
+This repository provides example Verilog module and testbenches that demonstrate how to use the **DSP48A1** primitive in Xilinx Spartan-6 FPGAs. The DSP48A1 block is a powerful, flexible, and compact digital signal processing element for high-speed arithmetic operations.
 
 ## 🧠 Overview
 
 The DSP48A1 slice supports the following operations:
-- 18x18-bit signed/unsigned multiplication
-- 48-bit multiply-accumulate (MAC)
-- Add/Subtract/Accumulate
-- Optional pattern detection and SIMD modes
+- **18x18-bit multiplier** (signed or unsigned)
+- **48-bit accumulator or ALU**
+- **Pre-adder for filter applications**
+- **Cascading for complex DSP pipelines**
+- **Pattern detection and logic unit**
+- **Optional pipeline stages for high-speed designs**
 
 This repository includes:
 - 📦 Verilog module instantiations of DSP48A1

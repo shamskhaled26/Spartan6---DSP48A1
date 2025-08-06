@@ -18,7 +18,7 @@ This repository includes:
 - 🛠️ Sample configurations (e.g., MAC, multiplier-only)
 - 📜 Constraint examples (UCF/XDC for Spartan-6)
 
-<img width="388" height="572" alt="image" src="https://github.com/user-attachments/assets/967fdddb-ab5b-4bf0-9885-ad3195856177" />
+     <img width="388" height="572" alt="image" src="https://github.com/user-attachments/assets/967fdddb-ab5b-4bf0-9885-ad3195856177" />
 
 
 
